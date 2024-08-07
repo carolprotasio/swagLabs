@@ -136,6 +136,8 @@ Os teste automatizados foram realizado no [SwagLabs](https://www.saucedemo.com/)
 **Critérios de Aceitação:** O valor total no carrinho deve ser calculado e exibido corretamente.
 
 ![CheckoutTest](https://github.com/carolprotasio/swagLabs/blob/main/src/test/java/assets/checkout.png)
+####
+![AllTest](https://github.com/carolprotasio/swagLabs/blob/main/src/test/java/assets/allTests.png)
 
 ## Conclusão
 Este projeto de automação de testes para o SwagLabs não só aprimorou as habilidades em Selenium WebDriver e Programação Orientada a Objetos (POO), mas também demonstrou a importância de criar testes robustos e abrangentes para garantir a qualidade e a confiabilidade das aplicações web. Através da automação das funcionalidades principais como login, navegação, manipulação de produtos, e processos de checkout, conseguimos validar eficientemente a integridade e a usabilidade da plataforma. Este projeto serve como uma base sólida para futuras expansões e implementações de testes automatizados em diferentes contextos e aplicações.
